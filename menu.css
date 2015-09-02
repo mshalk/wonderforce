@@ -58,10 +58,10 @@ ul#nav li {
     white-space:nowrap;
 }
 ul#nav>li,ul#nav li {
-    margin:0 5px 0 5px;
+    margin:0 0 0 5px;
 }
 ul#nav ul>li {
-    margin:0 5px 0 5px;
+    margin:5px 0 0;
 }
 
 ul#nav a {
@@ -79,7 +79,7 @@ ul#nav a {
 }
 ul#nav ul li {
     float:none;
-    margin:0 5px 0 5px;
+    margin:6px 0 0;
 }
 ul#nav ul a {
     background-color:#fff;
@@ -88,7 +88,7 @@ ul#nav ul a {
     border-width:0 0 1px;
     color:#2B6CA3;
     font-size:16px;
-    padding:0 5px 0 5px;
+    padding:4px;
     text-align:left;
     text-decoration:none;
     text-shadow:#fff 0 0 0;
@@ -100,8 +100,7 @@ ul#nav ul a {
 ul#nav li:hover>a {
     border-style:none;
     color:##2B6CA3;
-    font-size:16px;
-    padding:0 5px 0 5px;
+    font-size:18px;
     font-weight:normal;
     text-decoration:none;
 }
