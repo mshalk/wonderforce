@@ -4,9 +4,9 @@
 }
 
 body {
-    background-color:#ffffff;
+    background-color:#fff;
     color:#fff;
-    font:14px/1.3 Open Sans Condensed,sans-serif;
+    font:18px/1.3 Open Sans Condensed,sans-serif;
 }
 
 footer {
@@ -35,7 +35,7 @@ footer a.stuts,a.stuts:visited{
     border:none;
     text-decoration:none;
     color:#fcfcfc;
-    font-size:14px;
+    font-size:16px;
     left:50%;
     line-height:31px;
     margin:23px 0 0 110px;
