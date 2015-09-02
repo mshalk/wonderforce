@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color:#2B6CA3;
+    background-color:#fff;
     color:#fff;
     font:14px/1.3 Open Sans Condensed,sans-serif;
 }
@@ -28,7 +28,7 @@ footer h2{
     margin-left:-400px;
     padding:22px 0;
     position:absolute;
-    width:950px;
+    width:540px;
 }
 
 footer a.stuts,a.stuts:visited{
@@ -52,6 +52,6 @@ footer .stuts span {
 .container {
     margin:20px auto;
     position:relative;
-    width:950px;
+    width:720px;
     height:720px;
 }
