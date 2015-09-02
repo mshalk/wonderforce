@@ -13,8 +13,7 @@ ul#nav,ul#nav ul {
 ul#nav,ul#nav .subs {
     background-color:#2B6CA3;
     border:1px solid #2B6CA3;
-    font-color:#ffffff
-
+    
     border-radius:9px;
     -moz-border-radius:9px;
     -webkit-border-radius:9px;
@@ -94,7 +93,7 @@ ul#nav ul a {
     padding:4px;
     text-align:left;
     text-decoration:none;
-  
+    text-shadow:#fff 0 0 0;
 
     border-radius:0;
     -moz-border-radius:0;
