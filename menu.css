@@ -130,7 +130,7 @@ ul#nav ul li:hover>a {
     text-shadow:#fff 0 0 0;
 }
 ul#nav > li >a {
-    background-color:#2B6CA3;
+    background-color:transparent;
     height:25px;
     line-height:25px;
 
