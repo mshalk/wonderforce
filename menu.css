@@ -14,13 +14,13 @@ ul#nav,ul#nav .subs {
     background-color:#2B6CA3;
     border:1px solid #2B6CA3;
 
-    border-radius:11px;
-    -moz-border-radius:11px;
-    -webkit-border-radius:11px;
+    border-radius:9px;
+    -moz-border-radius:9px;
+    -webkit-border-radius:9px;
 }
 ul#nav .subs {
     background-color:#fff;
-    border:1px solid #2B6CA3;
+    border:2px solid #2B6CA3;
     display:none;
     float:left;
     left:0;
@@ -29,9 +29,9 @@ ul#nav .subs {
     top:100%;
     width:300px;
 
-    border-radius:11px;
-    -moz-border-radius:11px;
-    -webkit-border-radius:11px;
+    border-radius:7px;
+    -moz-border-radius:7px;
+    -webkit-border-radius:7px;
 }
 ul#nav li:hover>* {
     display:block;
@@ -73,11 +73,10 @@ ul#nav a {
     cursor:pointer;
     display:block;
     font-size:18px;
-    font-weight:normal;
+    font-weight:bold;
     padding:18px 8px;
     text-align:left;
     text-decoration:none;
-    text-shadow:#fff 0 1px 1px;
     vertical-align:middle;
 }
 ul#nav ul li {
@@ -88,7 +87,7 @@ ul#nav ul a {
     background-color:#fff;
     border-color:#2B6CA3;
     border-style:solid;
-    border-width:0 0 0px;
+    border-width:0 0 1px;
     color:#2B6CA3;
     font-size:16px;
     padding:4px;
@@ -120,6 +119,7 @@ ul#nav span {
     padding-right:0;
 }
 ul#nav ul span {
+background-image:url("../images/arrow.png");
     padding-right:20px;
 }
 ul#nav ul li:hover>a {
