@@ -118,6 +118,7 @@ ul#nav span {
 }
 ul#nav ul span {
     background-image:url("../images/arrow.png");
+    background-color:#ffffff;
     padding-right:20px;
 }
 ul#nav ul li:hover>a {
