@@ -63,9 +63,7 @@ ul#nav>li,ul#nav li {
 ul#nav ul>li {
     margin:5px 0 0;
 }
-ul#nav a:active,ul#nav a:focus {
-    outline-style:none;
-}
+
 ul#nav a {
     border-style:none;
     border-width:0;
