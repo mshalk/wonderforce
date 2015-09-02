@@ -4,7 +4,7 @@ ul#nav {
     font-family:Open Sans Condensed,sans-serif;
     font-size:0;
     padding:5px 5px 5px 0;
-    background-color:#2B6CA3 
+    background-color:#2B6CA3; 
 }
 ul#nav,ul#nav ul {
     list-style:none;
@@ -20,7 +20,7 @@ ul#nav,ul#nav .subs {
 }
 ul#nav .subs {
     background-color:#fff;
-    border:2px solid #222;
+    border:1px solid #2B6CA3;
     display:none;
     float:left;
     left:0;
@@ -69,7 +69,7 @@ ul#nav a:active,ul#nav a:focus {
 ul#nav a {
     border-style:none;
     border-width:0;
-    color:#181818;
+    color:#045184;
     cursor:pointer;
     display:block;
     font-size:13px;
@@ -77,7 +77,6 @@ ul#nav a {
     padding:8px 18px;
     text-align:left;
     text-decoration:none;
-    text-shadow:#fff 0 1px 1px;
     vertical-align:middle;
 }
 ul#nav ul li {
@@ -86,7 +85,7 @@ ul#nav ul li {
 }
 ul#nav ul a {
     background-color:#fff;
-    border-color:#efefef;
+    border-color:#2B6CA3;
     border-style:solid;
     border-width:0 0 1px;
     color:#000;
@@ -121,7 +120,6 @@ ul#nav span {
     padding-right:0;
 }
 ul#nav ul span {
-    background-image:url("../images/arrow.png");
     padding-right:20px;
 }
 ul#nav ul li:hover>a {
