@@ -29,9 +29,9 @@ ul#nav .subs {
     top:100%;
     width:300px;
 
-    border-radius:7px;
-    -moz-border-radius:7px;
-    -webkit-border-radius:7px;
+    border-radius:11px;
+    -moz-border-radius:11px;
+    -webkit-border-radius:11px;
 }
 ul#nav li:hover>* {
     display:block;
