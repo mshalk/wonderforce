@@ -87,7 +87,7 @@ ul#nav ul a {
     background-color:#fff;
     border-color:#2B6CA3;
     border-style:solid;
-    border-width:0 0 1px;
+    border-width:0 0 0px;
     color:#2B6CA3;
     font-size:18px;
     padding:4px;
@@ -102,7 +102,7 @@ ul#nav ul a {
 ul#nav li:hover>a {
     border-style:none;
     color:#fff;
-    font-size:18px;
+    font-size:16px;
     font-weight:normal;
     text-decoration:none;
 }
