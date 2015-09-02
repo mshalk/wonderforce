@@ -86,8 +86,6 @@ ul#nav ul li {
 ul#nav ul a {
     background-color:#fff;
     border-color:#2B6CA3;
-    border-style:solid;
-    border-width:0 0 1px;
     color:#2B6CA3;
     font-size:16px;
     padding:4px;
@@ -125,7 +123,6 @@ ul#nav ul span {
 ul#nav ul li:hover>a {
     border-color:#2B6CA3;
     border-style:solid;
-    border-width:0 0 1px;
     color:#045184;
     font-size:16px;
     text-decoration:none;
@@ -133,8 +130,8 @@ ul#nav ul li:hover>a {
 }
 ul#nav > li >a {
     background-color:transparent;
-    height:25px;
-    line-height:25px;
+    height:20px;
+    line-height:20px;
 
     border-radius:11px;
     -moz-border-radius:11px;
@@ -142,5 +139,5 @@ ul#nav > li >a {
 }
 ul#nav > li:hover > a {
     background-color:#045184;
-    line-height:25px;
+    line-height:20px;
 }
