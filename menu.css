@@ -43,13 +43,14 @@ ul#nav ul .subs {
     left:100%;
     position:absolute;
     top:0;
+    width:fit-content;
 }
 ul#nav ul {
     padding:0 5px 5px;
 }
 ul#nav .col {
     float:left;
-    width:50%;
+    width:33%;
 }
 ul#nav li {
     display:block;
