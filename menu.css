@@ -99,7 +99,7 @@ ul#nav ul a {
 }
 ul#nav li:hover>a {
     border-style:none;
-    color:##2B6CA3;
+    color:#2B6CA3;
     font-size:18px;
     font-weight:normal;
     text-decoration:none;
@@ -123,7 +123,7 @@ ul#nav ul span {
 ul#nav ul li:hover>a {
     border-color:#2B6CA3;
     border-style:solid;
-    color:#2B6CA3;
+    color:#3D9BE9;
     font-size:16px;
     text-decoration:none;
 }
