@@ -3,7 +3,6 @@ ul#nav {
     float:left;
     font-family:Open Sans Condensed,sans-serif;
     font-size:0;
-    font-color:#ffffff
     padding:5px 5px 5px 0px;
     background-color:#2B6CA3; 
 }
@@ -14,6 +13,7 @@ ul#nav,ul#nav ul {
 ul#nav,ul#nav .subs {
     background-color:#2B6CA3;
     border:1px solid #2B6CA3;
+    font-color:#ffffff
 
     border-radius:9px;
     -moz-border-radius:9px;
