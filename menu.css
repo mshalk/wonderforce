@@ -40,7 +40,7 @@ ul#nav li:hover {
     position:relative;
 }
 ul#nav ul .subs {
-    left:50%;
+    left:100%;
     position:absolute;
     top:0;
 }
@@ -48,7 +48,7 @@ ul#nav ul {
     padding:0 5px 5px;
 }
 ul#nav .col {
-    float:left;
+    float:right;
     width:33%;
 }
 ul#nav li {
