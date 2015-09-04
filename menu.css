@@ -84,8 +84,8 @@ ul#nav ul li {
 ul#nav ul a {
     background-color:#fff;
     border-color:#2B6CA3;
-    border-style:solid;
-    border-width:0 0 0px;
+    border-style:none;
+    border-width:0 0 1px;
     color:#045184;
     font-size:16px;
     padding:3px;
