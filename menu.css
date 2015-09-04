@@ -53,7 +53,7 @@ ul#nav .col {
 }
 ul#nav li {
     display:block;
-    float:inherit;
+    float:right;
     font-size:0;
     white-space:nowrap;
 }
