@@ -22,7 +22,7 @@ ul#nav .subs {
     background-color:#fff;
     border:2px solid #2B6CA3;
     display:none;
-    float:left;
+    float:inherit;
     left:0;
     padding:0 6px 6px;
     position:absolute;
@@ -45,7 +45,7 @@ ul#nav ul .subs {
     top:0;
 }
 ul#nav ul {
-    padding:0 5px 5px;
+    padding:0 3px 3px;
 }
 ul#nav .col {
     float:left;
