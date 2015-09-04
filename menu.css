@@ -12,7 +12,7 @@ ul#nav,ul#nav ul {
 }
 ul#nav,ul#nav .subs {
     background-color:#2B6CA3;
-    border:0px solid #2B6CA3;
+    border:1px solid #2B6CA3;
     
     border-radius:9px;
     -moz-border-radius:9px;
@@ -85,10 +85,10 @@ ul#nav ul a {
     background-color:#fff;
     border-color:#2B6CA3;
     border-style:solid;
-    border-width:0 0 1px;
+    border-width:0 0 0px;
     color:#045184;
     font-size:16px;
-    padding:4px;
+    padding:3px;
     text-align:left;
     text-decoration:none;
     text-shadow:#fff 0 0 0;
