@@ -12,7 +12,7 @@ ul#nav,ul#nav ul {
 }
 ul#nav,ul#nav .subs {
     background-color:#2B6CA3;
-    border:1px solid #2B6CA3;
+    border:0px solid #2B6CA3;
     
     border-radius:9px;
     -moz-border-radius:9px;
