@@ -26,7 +26,7 @@ footer h2{
     font-weight:normal;
     left:50%;
     margin-left:-400px;
-    padding:16px 0;
+    padding:22px 0;
     position:absolute;
     width:810px;
 }
@@ -37,7 +37,7 @@ footer a.stuts,a.stuts:visited{
     color:#fcfcfc;
     font-size:14px;
     left:50%;
-    line-height:26px;
+    line-height:31px;
     margin:23px 0 0 110px;
     position:absolute;
     top:0;
