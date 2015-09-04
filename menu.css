@@ -1,6 +1,6 @@
 ul#nav {
     display:block;
-    float:left;
+    float:right;
     font-family:Open Sans Condensed,sans-serif;
     font-size:0;
     padding:5px 5px 5px 0;
@@ -48,7 +48,7 @@ ul#nav ul {
     padding:0 5px 5px;
 }
 ul#nav .col {
-    float:right;
+    float:left;
     width:33%;
 }
 ul#nav li {
