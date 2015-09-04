@@ -87,7 +87,7 @@ ul#nav ul a {
     border-style:solid;
     border-width:0 0 0 0;
     color:#045184;
-    font-size:16px;
+    font-size:17px;
     padding:3px;
     text-align:left;
     text-decoration:none;
@@ -124,8 +124,8 @@ ul#nav ul span {
 ul#nav ul li:hover>a {
     border-color:#2B6CA3;
     border-style:solid;
-    color:#3D9BE9;
-    font-size:16px;
+    color:#626262;
+    font-size:17px;
     text-decoration:none;
 }
 ul#nav > li >a {
