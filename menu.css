@@ -23,11 +23,11 @@ ul#nav .subs {
     border:2px solid #2B6CA3;
     display:none;
     float:left;
-    left:-50px;
+    left:-50;
     padding:0 3px 3px;
     position:absolute;
     top:100%;
-    width:480px;
+    width:465px;
 
     border-radius:7px;
     -moz-border-radius:7px;
