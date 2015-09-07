@@ -1,6 +1,7 @@
 *{
     margin:0;
     padding:0;
+    float:right;
 }
 
 body {
@@ -37,7 +38,7 @@ footer a.stuts,a.stuts:visited{
     color:#fcfcfc;
     font-size:14px;
     left:50%;
-    line-height:31px;
+    line-height:26px;
     margin:23px 0 0 110px;
     position:absolute;
     top:0;
@@ -50,9 +51,10 @@ footer .stuts span {
 }
 
 .container {
-    margin:20px auto;
+    margin:0px auto;
     position:relative;
-    width:950px;
+    width:850px;
     height:100px;
+    padding-bottom:120px;
     }
 
