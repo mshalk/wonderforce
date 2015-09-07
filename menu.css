@@ -1,6 +1,6 @@
 ul#nav {
     display:block;
-    float:left;
+    float:none;
     font-family:Open Sans Condensed,sans-serif;
     font-size:0;
     padding:5px 5px 5px 0;
