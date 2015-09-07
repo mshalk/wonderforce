@@ -29,7 +29,7 @@ a.caption-btn:hover,
 .qtyminus:hover,
 a.calculate-shipping:hover,
 .og-close:hover,
-.tags a:hover							{ background: #dd3737; }
+.tags a:hover							{ background: #3D9Be9; }
 
 
 .top-search button:hover,
@@ -62,7 +62,7 @@ a.button.gray:hover,
 .hover-icon,
 #backtotop a:hover,
 #filters a:hover,
-#filters a.selected 					{ background-color: #dd3737; }
+#filters a.selected 					{ background-color: #3D9Be9; }
 
 
 a,
@@ -85,7 +85,7 @@ a,
 #categories li ul li a:hover,
 table .cart-title a:hover,
 .st-val a:hover,
-.meta a:hover   						{ color: #dd3737; }
+.meta a:hover   						{ color: #3D9Be9; }
 
 
 
