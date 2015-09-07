@@ -23,7 +23,7 @@ ul#nav .subs {
     border:2px solid #2B6CA3;
     display:none;
     float:left;
-    left:0;
+    left:-50px;
     padding:0 3px 3px;
     position:absolute;
     top:100%;
