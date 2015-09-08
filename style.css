@@ -96,7 +96,7 @@
 
 .menu > li.dropdown li.sfHover {
 	background-color: #ffffff;
-	border-left: 1px #000;
+	border: solid 1px #000000;
 }
 
 .current,
