@@ -95,7 +95,7 @@
 }
 
 .menu > li.dropdown li.sfHover {
-	background-color: #ffffff;
+	background-color: #f6f6f6;
 }
 
 .current,
@@ -112,7 +112,7 @@
 
 /* Mega Menu */
 .mega {
-	background-color: transparent;
+	background-color: #f9f9f9;
 	padding: 0;
 	box-sizing: border-box;
 	border-bottom: 1px solid #eaeaea;
