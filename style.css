@@ -116,7 +116,7 @@
 	padding: 0;
 	box-sizing: border-box;
 	border-bottom: 1px solid #eaeaea;
-	font-size: 13px;
+	font-size: 16px;
 }
 
 .mega a {
@@ -274,7 +274,7 @@ li.dropdown ul li a {
 	display: block;
 	min-width: 150px;
 	color: #909090;
-	font-size: 13px;
+	font-size: 15px;
 	line-height: 18px;
 	padding: 10px 16px;
 	transition: all 0.15s ease-in-out;
