@@ -89,7 +89,7 @@ table .cart-title a:hover,
 
 
 
-#jPanelMenu-menu a.current { background: #dd3737 !important; }
-.current-page { background-color: #dd3737 !important; }
-blockquote { border-left: 4px solid #dd3737; }
-.categories li a:hover { color: #dd3737 !important; }
+#jPanelMenu-menu a.current { background: #3D9Be9 !important; }
+.current-page { background-color: #3D9Be9 !important; }
+blockquote { border-left: 4px solid #3D9Be9; }
+.categories li a:hover { color: #3D9Be9 !important; }
