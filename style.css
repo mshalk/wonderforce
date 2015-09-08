@@ -96,6 +96,7 @@
 
 .menu > li.dropdown li.sfHover {
 	background-color: #ffffff;
+	border-left: 1px #000;
 }
 
 .current,
@@ -138,7 +139,7 @@
 
 .mega-headline {
 	background: #f0f0f0;
-	color: #d11c1c;
+	color: #2B6CA3;
 	font-weight: 600;
 	display: block;
 	padding: 8px 12px;
