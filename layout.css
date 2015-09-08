@@ -15,7 +15,7 @@ footer {
     box-shadow: 0 -1px 2px #111111;
     display:block;
     height:70px;
-    left:0;
+    right:0;
     position:fixed;
     width:100%;
     z-index:100;
@@ -24,8 +24,8 @@ footer {
 footer h2{
     font-size:22px;
     font-weight:normal;
-    left:50%;
-    margin-left:-400px;
+    right:50%;
+    margin-right:-400px;
     padding:31px 0;
     position:absolute;
     width:900px;
@@ -36,7 +36,7 @@ footer a.stuts,a.stuts:visited{
     text-decoration:none;
     color:#fcfcfc;
     font-size:14px;
-    left:50%;
+    right:50%;
     line-height:31px;
     margin:23px 0 0 110px;
     position:absolute;
