@@ -4862,7 +4862,7 @@ html[xmlns] .slides {display: block;}
 		top: 0;
 	}
 
-	.menu > li > a { padding: 17px 15px 15px 15px; }
+	.menu > li > a { padding: 17px 10px 15px 10px; }
 	.arrows .with-ul { padding-right: 26px; }
 	.arrows .with-ul:after { right: 13px; }
 
