@@ -84,7 +84,7 @@
 .menu .homepage {
 	text-indent: -9999px;
 	display: block;
-	width: 25px !important;
+	width: 40px !important;
 	height: 50px;
 	padding: 0;
 	background: url(../images/home.png) 50% no-repeat;
@@ -4862,7 +4862,7 @@ html[xmlns] .slides {display: block;}
 		top: 0;
 	}
 
-	.menu > li > a { padding: 17px 10px 15px 10px; }
+	.menu > li > a { padding: 17px 15px 15px 15px; }
 	.arrows .with-ul { padding-right: 26px; }
 	.arrows .with-ul:after { right: 13px; }
 
