@@ -580,7 +580,7 @@ a.button.color:hover { background-color: #c0c0c0; }
 	display: block;
 	letter-spacing: 0;
 	outline: none;
-	padding: 0 10px;
+	padding: 0 20px;
 	text-decoration: none;
 }
 
@@ -620,7 +620,7 @@ table.basic-table.shortcode th {
 
 table.basic-table th {
 	text-align: left;
-	padding: 10px 15px;
+	padding: 10px 5px;
 	color: #666;
 	vertical-align: top;
 	font-size: 14px;
