@@ -117,7 +117,7 @@
 	padding: 0;
 	box-sizing: border-box;
 	border-bottom: 1px solid #eaeaea;
-	font-size: 16px;
+	font-size: 15px;
 }
 
 .mega a {
@@ -425,7 +425,7 @@ li.dropdown ul li a:hover {
 .headline {
 	font-size: 20px;
 	background-color: #fff;
-	padding-right: 5px;
+	padding-right: 10px;
 	z-index: 5;
 	position: relative;
 	float: left;
