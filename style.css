@@ -1586,7 +1586,7 @@ button.mfp-arrow {
 }
 
 .mfp-close:before {
-	content: "ï€";
+	content: "ie";
 	font-family: "FontAwesome";
 	font-size: 16px;
 	top: 0;
@@ -1635,7 +1635,7 @@ button.mfp-arrow {
 
 .mfp-arrow.mfp-arrow-left,
 .mfp-arrow.mfp-arrow-right {
-	content: "ï€";
+	content: "ie";
 	font-family: "FontAwesome";
 	font-size: 16px;
 }
