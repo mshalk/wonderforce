@@ -423,9 +423,9 @@ li.dropdown ul li a:hover {
 /* Headline
 ------------------------------------- */
 .headline {
-	font-size: 19px;
+	font-size: 20px;
 	background-color: #fff;
-	padding-right: 10px;
+	padding-right: 5px;
 	z-index: 5;
 	position: relative;
 	float: left;
