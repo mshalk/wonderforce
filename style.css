@@ -620,7 +620,7 @@ table.basic-table.shortcode th {
 
 table.basic-table th {
 	text-align: left;
-	padding: 10px 5px;
+	padding: 10px 15px;
 	color: #666;
 	vertical-align: top;
 	font-size: 14px;
@@ -813,7 +813,7 @@ blockquote {
 /* Content Boxes
 ------------------------------------- */
 .content-box {
-	padding: 32px 28px;
+	padding: 20px 28px;
 	margin: 0 0 20px 0;
 	text-align: center;
 	cursor: pointer;
