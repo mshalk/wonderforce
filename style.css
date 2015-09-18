@@ -117,7 +117,7 @@
 	padding: 0;
 	box-sizing: border-box;
 	border-bottom: 1px solid #eaeaea;
-	font-size: 15px;
+	font-size: 14px;
 }
 
 .mega a {
@@ -839,7 +839,7 @@ blockquote {
 	line-height: 26px;
 	padding-bottom: 8px;
 	color: #fff;
-	font-weight: 500;
+	font-weight: 600;
 }
 
 .content-box i {
