@@ -117,7 +117,7 @@
 	padding: 0;
 	box-sizing: border-box;
 	border: 1px solid #eaeaea;
-	font-size: 15px;
+	font-size: 12px;
 }
 
 .mega a {
@@ -152,7 +152,6 @@
 
 .mega ul li p a {
 	color: #808080;
-	font-weight: 400;
 	text-decoration: underline;
 	display: inline-block;
 	padding: 0;
