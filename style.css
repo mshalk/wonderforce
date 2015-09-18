@@ -116,8 +116,8 @@
 	background-color: #ffffff;
 	padding: 0;
 	box-sizing: border-box;
-	border-bottom: 1px solid #eaeaea;
-	font-size: 14px;
+	border: 1px solid #eaeaea;
+	font-size: 15px;
 }
 
 .mega a {
