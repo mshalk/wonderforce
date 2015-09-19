@@ -152,6 +152,7 @@
 
 .mega ul li p a {
 	color: #808080;
+	font-size:13px;
 	text-decoration: underline;
 	display: inline-block;
 	padding: 0;
@@ -169,7 +170,6 @@
 	margin-right: auto;
 	width: 100%;
 	padding: 30px 22px;
-	font-size: 12px;
 }
 
 .one-fourth-column,
