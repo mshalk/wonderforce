@@ -54,7 +54,7 @@
 ================================================== */
 	body {
 		background: #fff;
-		font-size: 14px;
+		font-size: 12px;
 		line-height: 24px;
 		color: #888;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
@@ -208,7 +208,7 @@
 
 	em { font-style: italic; }
 	strong { font-weight: 600; color: #606060; }
-	small { font-size: 70%; }
+	small { font-size: 80%; }
 
 	hr { border: solid #ddd; border-width: 1px 0 0; clear: both; margin: 10px 0 30px; height: 0; }
 
