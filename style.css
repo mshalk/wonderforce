@@ -78,7 +78,7 @@
 	display: inline-block;
 	text-transform: uppercase;
 	font-size:16px;
-	font-weight: 300;
+	font-weight: 600;
 }
 
 .menu .homepage {
@@ -140,7 +140,7 @@
 .mega-headline {
 	background: #CACACA;
 	color: #2B6CA3;
-	font-weight: 300;
+	font-weight: 600;
 	display: block;
 	padding: 8px 12px;
 	margin-bottom: 8px;
@@ -169,6 +169,7 @@
 	margin-right: auto;
 	width: 100%;
 	padding: 30px 22px;
+	font-size: 12px;
 }
 
 .one-fourth-column,
