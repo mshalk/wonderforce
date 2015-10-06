@@ -1,0 +1,87 @@
+body 
+{
+	font-family: arial, verdana;
+}
+
+.faqs
+{
+    width: 100%;
+    margin: 10px auto 30px auto;
+}
+
+.faqs label
+{
+    padding: 5px 20px;
+    position: relative;
+    z-index: 20;
+    display: block;
+    height: 30px;
+    cursor: pointer;
+    color: #777;
+    text-shadow: 1px 1px 1px rgba(255,255,255,0.8);
+    line-height: 33px;
+    font-size: 1em;
+    border-bottom: 1px solid #fff;
+	background: #eee;
+}
+
+.faqs label:hover
+{
+    background: #fff;
+}
+
+.faqs input:checked + label,
+.faqs input:checked + label:hover
+{
+    background: #efefef;
+    color: #3d7489;
+    text-shadow: 0px 1px 1px rgba(255,255,255, 0.6);
+}
+
+.faqs label:hover:after,
+.faqs input:checked + label:hover:after
+{
+    content: 'Click to expand/collapse';
+    position: absolute;
+    width: 200px;
+    height: 24px;
+    right: 0px;
+    top: 7px;
+    font-size: .69em;
+}
+
+.faqs input
+{
+    display: none;
+}
+
+.faqs div.content 
+{
+    overflow: hidden;
+    height: 0px;
+    position: relative;
+    z-index: 10;
+    transition: height 0.3s ease-in-out;
+}
+
+.faqs input:checked ~ div.content
+{
+    transition: height 0.3s ease-in-out;
+}
+
+.faqs input:checked ~ div.content
+{
+    height: 200px;
+}
+
+.clear:before,
+.clear:after 
+{
+    content: " ";
+    display: table;
+}
+
+.clear:after 
+{
+    clear: both;
+}
