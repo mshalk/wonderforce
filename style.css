@@ -334,10 +334,6 @@ li.dropdown ul li a:hover {
 	#jPanelMenu-menu { display: block; z-index:1;
 	
 	a.menu-trigger {
-		display: none;
-	}
-	
-	a.menu-trigger {
 		color: #fff;
 		display: block;
 		font-size: 1px;
