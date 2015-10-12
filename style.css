@@ -329,7 +329,7 @@ li.dropdown ul li a:hover {
 
 @media only screen and (max-width: 767px) {
 
-	.menu {max-height: 0px; max-width: 0px;}
+	.menu {max-height: 0px; max-width: 0px; background: transparent;}
 	#responsive { display: none; }
 	#jPanelMenu-menu { display: block }
 
@@ -341,7 +341,7 @@ li.dropdown ul li a:hover {
 		text-transform: uppercase;
 		font-weight: 700;
 		float: left;
-		background: #606060;
+		background: transparent;
 		position: relative;
 		width: 0%;
 		margin: 15px 0 25px 0;
@@ -355,19 +355,19 @@ li.dropdown ul li a:hover {
 	a.menu-trigger i {
 		padding: 16px 17px;
 		margin: 0 10px 0 0;
-		background: rgba(0,0,0,0.08);
+		background: transparent;
 		font-size: 14px;
 		font-weight: 500;
 	}
 
 	a.menu-trigger:hover {
-		background: #808080;
+		background: transparent;
 	}
 
 
 }
 
-#jPanelMenu-menu a.current { background: #808080 !important; }
+#jPanelMenu-menu a.current { background: transparent !important; }
 
 #jPanelMenu-menu a.current:after,
 #jPanelMenu-menu .with-ul:after { display: none; }
