@@ -331,7 +331,7 @@ li.dropdown ul li a:hover {
 
 	.menu {height: 1px; width: 1px; background: transparent; z-index:1;}
 	#responsive { display: none; z-index:1;}
-	#jPanelMenu-menu { display: block; z-index:1;
+	#jPanelMenu-menu { display: block; z-index:1;}
 	
 	a.menu-trigger {
 		color: #fff;
