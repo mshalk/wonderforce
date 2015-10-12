@@ -333,9 +333,6 @@ li.dropdown ul li a:hover {
 	#responsive { display: none; z-index:1;}
 	#jPanelMenu-menu { display: block; z-index:1;
 	
-	.ecwid-SearchPanel {display:none;}
-        .ecwid-SearchPanel-button {display:none;}
-
 	a.menu-trigger {
 		color: #fff;
 		display: block;
