@@ -329,7 +329,7 @@ li.dropdown ul li a:hover {
 
 @media only screen and (max-width: 767px) {
 
-	.menu {max-height: none;}
+	.menu {max-height: 0px; max-width: 0px;}
 	#responsive { display: none; }
 	#jPanelMenu-menu { display: block }
 
