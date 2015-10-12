@@ -343,7 +343,7 @@ li.dropdown ul li a:hover {
 		float: left;
 		background: #606060;
 		position: relative;
-		width: 100%;
+		width: 0%;
 		margin: 15px 0 25px 0;
 		-webkit-transition: all 0.2s ease-in-out;
 		-moz-transition: all 0.2s ease-in-out;
@@ -409,7 +409,7 @@ li.dropdown ul li a:hover {
 	float: left;
 	position: relative;
 	margin:0;
-	width: 100%;
+	width: 0%;
 }
 
 #jPanelMenu-menu .hidden-on-mobile,
