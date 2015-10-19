@@ -284,7 +284,7 @@ li.dropdown ul li a {
 }
 
 li.dropdown ul li a:hover {
-	background-color: #808080;
+	background-color: #ffffff;
 	color: #fff;
 	border-bottom: 1px solid rgba(0, 0, 0, 0.0);
 }
