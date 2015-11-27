@@ -32,7 +32,7 @@
 		padding: 0;
 		border: 0;
 		font-size: 12px;
-		font: 'helvetica, arial', sans-serif;
+		font: 'helvetica', sans-serif !important;
 		vertical-align: baseline; }	
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block; }
