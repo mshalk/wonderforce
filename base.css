@@ -33,7 +33,7 @@
 		font: normal 14px 'arial', san-serif !important;
 		line-height:22px;
 		vertical-align: baseline; }
-	div.one-fourth-column span.mega-headline {
+	div.one-fourth-column ul li span.mega-headline {
 		font-size: 30px !important;}	
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block; }
