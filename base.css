@@ -37,8 +37,7 @@
 		margin: 0;
 		padding: 0;
 		border: 0;
-		font-size: 12px !important;
-		font: normal 'arial', san-serif !important;
+		font: normal 14px 'arial', san-serif !important;
 		vertical-align: baseline; }
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block; }
