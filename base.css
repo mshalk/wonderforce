@@ -32,14 +32,13 @@
 		padding: 0;
 		border: 0;
 		font: bold 19px open sans condensed, san-serif !important;
-		vertical-align: middle; }
+		vertical-align: baseline; }
 		.one-fourth-column ul li a {
 		margin: 0;
 		padding: 0;
 		border: 0;
 		font-size: 12px !important;
-		font: 'arial', san-serif !important;
-		font-weight: 300 !important;
+		font: normal 'arial', san-serif !important;
 		vertical-align: baseline; }
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block; }
