@@ -27,13 +27,15 @@
 		font-size: 100%;
 		font: inherited;
 		vertical-align: baseline; }
-		.one-fourth-column ul li a {
+	.one-fourth-column ul li a {
 		margin: 0;
 		padding-bottom: 2px;
 		border: 0;
 		font: normal 14px 'arial', san-serif !important;
 		line-height:22px;
 		vertical-align: baseline; }
+	span.mega-headline {
+		font: 16px !important;}	
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block; }
 	body {
