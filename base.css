@@ -31,13 +31,13 @@
 		margin: 0;
 		padding: 0;
 		border: 0;
-		font: bold 16px open sans condensed, san-serif !important;
-		vertical-align: baseline; }
+		font: bold 18px open sans condensed, san-serif !important;
+		vertical-align: middle; }
 		li {
 		margin: 0;
 		padding: 0;
 		border: 0;
-		font: bold 12px arial, san-serif !important;
+		font: normal 12px arial, san-serif !important;
 		vertical-align: baseline; }
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block; }
