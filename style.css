@@ -36,7 +36,7 @@
 	list-style: none;
 	float: left;
 	width: 100%;
-	max-height: 52px;
+	max-height: 48px;
 	background-color: #2E49A3;
 	margin: 15px 0 25px 0;
 	z-index: 99;
@@ -85,7 +85,7 @@
 	text-indent: -9999px;
 	display: block;
 	width: 40px;
-	height: 52px;
+	height: 48px;
 	padding: 0;
 	background: url(http://static.wixstatic.com/media/34431b_47ea118f07b048d1bfb3d7f1df1e72bd.png_srz_p_13_12_75_22_0.50_1.20_0.00_png_srz) 50% no-repeat;
 }
