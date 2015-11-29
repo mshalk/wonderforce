@@ -205,14 +205,14 @@
 	.mega-container {
 		margin-left: auto;
 		margin-right: auto;
-		width: 894px;
+		width: 940px;
 	}
 
 	.mega-container .one-column 			{ width: 133px; }
 	.mega-container .one-columns 			{ width: 133px; }
 	.mega-container .two-columns 			{ width: 282px; }
-	.mega-container .one-fourth-column 		{ width: 207px; }
-	.mega-container .one-fourth-columns 		{ width: 207px; }
+	.mega-container .one-fourth-column 		{ width: 217px; }
+	.mega-container .one-fourth-columns 		{ width: 217px; }
 	.mega-container .three-columns 			{ width: 431px; }
 	.mega-container .four-columns 			{ width: 580px; }
 	.mega-container .five-columns 			{ width: 729px; }
